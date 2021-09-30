@@ -1,0 +1,76 @@
+
+import time
+
+while True:
+  z = int(time.strftime("%S"))
+  if z == 2:
+    print("                 ---------")
+    print("                 ---------")
+    print("                 ---------")
+    break
+
+while True:
+  z = int(time.strftime("%S"))
+  if z == 5:
+    print("                 ---------")
+    print("                 ---------")
+    break
+
+while True:
+  z = int(time.strftime("%S"))
+  if z == 7:
+    print("                 ---------")
+    print("                 ---------")
+    print("                 ---------")
+    print("                 ---------")
+    break
+
+while True:
+  z = int(time.strftime("%S"))
+  if z == 9:
+    print("---------        ---------")
+    print("---------        ---------")
+    break
+
+while True:
+  z = int(time.strftime("%S"))
+  if z == 11:
+    print("---------        ---------")
+    print("---------        ---------")
+    print("--------------------------")
+    break
+
+while True:
+  z = int(time.strftime("%S"))
+  if z == 13:
+    print("--------------------------")
+    print("--------------------------")
+    break
+
+while True:
+  z = int(time.strftime("%S"))
+  if z == 15:
+    print("--------------------------")
+    break
+
+while True:
+  z = int(time.strftime("%S"))
+  if z == 17:
+    print("                 ---------")
+    print("                 ---------")
+    print("                 ---------")
+    print("                 ---------")
+    print("                 ---------")
+    print("                 ---------")
+    print("                 ---------")
+    print("                 ---------")
+    print("                 ---------")
+    print("---------        ---------")
+    print("---------        ---------")
+    print("---------        ---------")
+    print("---------        ---------")
+    print("--------------------------")
+    print("--------------------------")
+    print("--------------------------")
+    print("--------------------------")
+    break
