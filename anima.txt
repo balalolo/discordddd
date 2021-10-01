@@ -8,7 +8,7 @@ while True:
     print("                 ---------")
     print("                 ---------")
     break
-
+jameel
 while True:
   z = int(time.strftime("%S"))
   if z == 5:
@@ -31,7 +31,7 @@ while True:
     print("---------        ---------")
     print("---------        ---------")
     break
-
+jameel
 while True:
   z = int(time.strftime("%S"))
   if z == 11:
